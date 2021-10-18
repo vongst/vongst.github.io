@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}" style="line-height: 150%;">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       一个90后<br />
       程序猿的<br />
       自我修养
