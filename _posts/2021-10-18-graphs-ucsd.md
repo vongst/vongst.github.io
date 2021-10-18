@@ -39,12 +39,7 @@ categories:
 -   Compute maximim flows in graphs
 -   Develop an algorithm for the stable matching problem
 
-Display equation:
-
-$$\int e^{-kx} \, dx = -\frac{1}{k} e^{-kx}$$
-
-Some inline Latex: $$a^2 + b^2 = c^2$$
-
+***
 
 
 #### Isomorphism
