@@ -44,7 +44,10 @@ categories:
 ***
 
 #### Degree sum formula
-Handshaking lemma. $$ \sum_{v\in V} \deg v = 2|E| $$ 
+
+$$ \sum_{v\in V} \deg v = 2|E| $$ 
+
+Handshaking lemma, sum of degree of vertices = 2x edges 
 
 #### Isomorphism
 
@@ -56,6 +59,6 @@ Handshaking lemma. $$ \sum_{v\in V} \deg v = 2|E| $$
 #### Ways of representing graphs
 1. adjacency matrix
 2. adjacency list 
-	- standard (linked lists)
-	- fast (hash tables)
+	- standard, linked lists
+	- fast, hash tables
 3. adjacency set
