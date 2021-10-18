@@ -9,38 +9,42 @@ categories:
 
 ### Learning Objectives
 
--   __Define graphs__
-	+   graphs represent a relationship between _pairs_ of objects. $$G = (V, E)$$, where
+- [x] __Define graphs__
+	+   graphs represent a relationship between _pairs_ of objects. 
+	+   $$G = (V, E)$$, where
 		*   $$V$$, non-empty set of vertices
 		*   $$E$$, set of edges
 	+   simple; multigraph (loops, parallel edges)
 	+   undirected; directed (tail → head)
 	+   subgraph, proper subgraph
 	+   open walk, closed walk, path, cycle, trail
--   Practice graph drawing
--   Identify graph classes
+- [ ] Practice graph drawing
+- [x] Identify graph classes
 	+   empty graph
 	+   line graph 
 	+   complete graph
+	+   bipartite graph
+	+   trees, rooted trees
 	+   ... 
--   Decide whether a graph has an Eulerian cycle
+- [ ] Decide whether a graph has an Eulerian cycle
 	+   a cycle that uses each edge exactly once
--   Apply the degree sum formula
-	+   handshaking lemma
--   Determine connected components of a graph
--   Compute minimum spanning trees
--   Describe matchings in bipartite graphs
--   __Define planar graphs__
+- [x] Apply the degree sum formula
+- [x] Define planar graphs
 	+   graph has a drawing where no 2 edges cross
--   Prove that planar graphs can be colored in 6 colors
--   Analyze Ramsey numbers
--   Review cliques, independent sets, and vertex covers
--   Define augmenting paths in networks
--   Compute maximim flows in graphs
--   Develop an algorithm for the stable matching problem
+- [ ] Prove that planar graphs can be colored in 6 colors
+- [ ] Determine connected components of a graph
+- [ ] Compute minimum spanning trees
+- [ ] Describe matchings in bipartite graphs
+- [ ] Develop an algorithm for the stable matching problem
+- [ ] Analyze Ramsey numbers
+- [ ] Review cliques, independent sets, and vertex covers
+- [ ] Define augmenting paths in networks
+- [ ] Compute maximum flows in graphs
 
 ***
 
+#### Degree sum formula
+Handshaking lemma. $$ \sum_{v\in V} \deg v = 2|E| $$ 
 
 #### Isomorphism
 
