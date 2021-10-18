@@ -33,3 +33,13 @@ Display equation:
 $$\int e^{-kx} \, dx = -\frac{1}{k} e^{-kx}$$
 
 Some inline Latex: $$a^2 + b^2 = c^2$$
+
+- Empty graph
+- Line graph 
+
+#### Isomorphism
+
+- must have the same number of vertices
+- property of graph is preserved
+- same up to a relabeling of vertices 
+- computationally exhausting
