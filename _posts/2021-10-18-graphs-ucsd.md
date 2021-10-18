@@ -20,7 +20,8 @@ categories:
 -   Determine connected components of a graph
 -   Compute minimum spanning trees
 -   Describe matchings in bipartite graphs
--   Define planar graphs
+-   __Define planar graphs__
+	+   Graph has a drawing where no 2 edges cross
 -   Prove that planar graphs can be colored in 6 colors
 -   Analyze Ramsey numbers
 -   Review cliques, independent sets, and vertex covers
@@ -43,3 +44,8 @@ Some inline Latex: $$a^2 + b^2 = c^2$$
 - property of graph is preserved
 - same up to a relabeling of vertices 
 - computationally exhausting
+
+#### Ways of representing graphs
+1. adjacency matrix
+2. adjacency list 
+3. adjacency set
