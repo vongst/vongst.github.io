@@ -10,18 +10,28 @@ categories:
 ### Learning Objectives
 
 -   __Define graphs__
-	+   Graphs represent a relationship between _pairs_ of objects. $$G = (V, E)$$, where
+	+   graphs represent a relationship between _pairs_ of objects. $$G = (V, E)$$, where
 		*   $$V$$, non-empty set of vertices
 		*   $$E$$, set of edges
+	+   simple; multigraph (loops, parallel edges)
+	+   undirected; directed (tail → head)
+	+   subgraph, proper subgraph
+	+   open walk, closed walk, path, cycle, trail
 -   Practice graph drawing
 -   Identify graph classes
+	+   empty graph
+	+   line graph 
+	+   complete graph
+	+   ... 
 -   Decide whether a graph has an Eulerian cycle
+	+   a cycle that uses each edge exactly once
 -   Apply the degree sum formula
+	+   handshaking lemma
 -   Determine connected components of a graph
 -   Compute minimum spanning trees
 -   Describe matchings in bipartite graphs
 -   __Define planar graphs__
-	+   Graph has a drawing where no 2 edges cross
+	+   graph has a drawing where no 2 edges cross
 -   Prove that planar graphs can be colored in 6 colors
 -   Analyze Ramsey numbers
 -   Review cliques, independent sets, and vertex covers
@@ -35,8 +45,7 @@ $$\int e^{-kx} \, dx = -\frac{1}{k} e^{-kx}$$
 
 Some inline Latex: $$a^2 + b^2 = c^2$$
 
-- Empty graph
-- Line graph 
+
 
 #### Isomorphism
 
@@ -48,4 +57,6 @@ Some inline Latex: $$a^2 + b^2 = c^2$$
 #### Ways of representing graphs
 1. adjacency matrix
 2. adjacency list 
+	- standard (linked lists)
+	- fast (hash tables)
 3. adjacency set
