@@ -6,9 +6,14 @@
 
 .site-header {
     border-top: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 .site-title {
     line-height: 150%;
-    padding-top: 30px;
-    padding-bottom: 30px;
+}
+.site-desc {
+    float: right;
+    text-align: right;
+    margin-top: 15px;
 }
