@@ -32,7 +32,8 @@ categories:
 
 	
 Graph colouring 
-- [ ] Prove that planar graphs can be colored in 6 colors
+- [ ] Prove that planar graphs can be colored in 6 colors 
+	+ [Five Color Theorem](https://proofwiki.org/wiki/Five_Color_Theorem)
 
 Route problems
 - [ ] Decide whether a graph has an Eulerian cycle
