@@ -24,6 +24,7 @@ categories:
 	+   line graph 
 	+   complete graph
 	+   bipartite graph
+	+   directed acyclic graphs
 	+   trees, rooted trees
 	+   ... 
 - [x] Apply the degree sum formula
@@ -76,3 +77,11 @@ $$\{u,v\}\in E_{1} \iff \{f(u),f(v)\}\in E_{2}$$
 	- standard, linked lists
 	- fast, hash tables
 3. adjacency set
+
+---
+
+### Route problems
+
+### Graph colouring
+
+### Network flow
