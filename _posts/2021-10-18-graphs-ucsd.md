@@ -26,30 +26,43 @@ categories:
 	+   bipartite graph
 	+   trees, rooted trees
 	+   ... 
-- [ ] Decide whether a graph has an Eulerian cycle
-	+   a cycle that uses each edge exactly once
 - [x] Apply the degree sum formula
 - [x] Define planar graphs
 	+   graph has a drawing where no 2 edges cross
+
+- [ ] Decide whether a graph has an Eulerian cycle
+	+   a cycle that uses each edge exactly once
+	
+Graph colouring 
 - [ ] Prove that planar graphs can be colored in 6 colors
-- [ ] Determine connected components of a graph
+
+Route problems
 - [ ] Compute minimum spanning trees
+
+
+- [ ] Determine connected components of a graph
 - [ ] Describe matchings in bipartite graphs
 - [ ] Develop an algorithm for the stable matching problem
 - [ ] Analyze Ramsey numbers
 - [ ] Review cliques, independent sets, and vertex covers
 - [ ] Define augmenting paths in networks
+
+Network flow
 - [ ] Compute maximum flows in graphs
 
 ***
 
-#### Degree sum formula
+#### Degree sum formula / Handshaking lemma
 
 $$ \sum_{v\in V} \deg v = 2|E| $$ 
 
-Handshaking lemma, sum of degree of vertices = 2x edges 
+Sum of degree of all vertices = 2 * number of edges 
 
 #### Isomorphism
+
+$$G_{1} = (V_{1},E_{1})$$ is isomorphic to $$G_{2} = (V_{2},E_{2})$$ iff there exists a bijection $$f:V_{1}\rightarrow V_{2}$$ such that for every pair of vertices $$u,v \in V_{1}$$:
+
+$$\{u,v\}\in E_{1} \iff \{f(u),f(v)\}\in E_{2}$$
 
 - must have the same number of vertices
 - property of graph is preserved
