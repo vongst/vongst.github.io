@@ -30,25 +30,25 @@ categories:
 - [x] Define planar graphs
 	+   graph has a drawing where no 2 edges cross
 
-- [ ] Decide whether a graph has an Eulerian cycle
-	+   a cycle that uses each edge exactly once
 	
 Graph colouring 
 - [ ] Prove that planar graphs can be colored in 6 colors
 
 Route problems
+- [ ] Decide whether a graph has an Eulerian cycle
+	+   a cycle that uses each edge exactly once
 - [ ] Compute minimum spanning trees
-
-
-- [ ] Determine connected components of a graph
-- [ ] Describe matchings in bipartite graphs
-- [ ] Develop an algorithm for the stable matching problem
-- [ ] Analyze Ramsey numbers
-- [ ] Review cliques, independent sets, and vertex covers
 - [ ] Define augmenting paths in networks
 
 Network flow
+- [ ] Describe matchings in bipartite graphs
+- [ ] Develop an algorithm for the stable matching problem
 - [ ] Compute maximum flows in graphs
+
+Everything else
+- [ ] Determine connected components of a graph
+- [ ] Analyze Ramsey numbers
+- [ ] Review cliques, independent sets, and vertex covers
 
 ***
 
