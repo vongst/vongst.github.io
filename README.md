@@ -1,0 +1,1 @@
+Learning stuffs at [notes.vong.io](https://notes.vong.io)
