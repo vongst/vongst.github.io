@@ -55,7 +55,7 @@ a.site-title {
 }
 h1.post-title {
     font-size: 27.8576px;
-    line-height: 1;
+    line-height: 1.4;
     letter-spacing: normal;
 }
 
@@ -63,13 +63,12 @@ h1.post-title {
 
 .post-content {
     line-height: 1.7411;
+    h2, h3, h4 { line-height: 1.4; }
     h2 { font-size: 24.2515px; }
     h3 { font-size: 21.1121px; }
     h4 { font-size: 18.3792px; }
     p, ul, ol { font-size: 16px;}
 }
-
-
 
 
 footer { font-size: 13.9288px; }
