@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Introduction to Graph Theory - UCSD"
-date:   2021-10-18 12:36:27 +0800
 categories: 
 ---
 
