@@ -27,6 +27,8 @@ url: "https://notes.vong.io" # the base hostname & protocol for your site, e.g. 
 twitter_username: jekyllrb
 github_username:  jekyll
 
+github: "https://github.com/vongst/vongst.github.io/blob/main/"
+
 # Build settings
 theme: minima
 plugins:
