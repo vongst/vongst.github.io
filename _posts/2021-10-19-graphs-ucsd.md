@@ -6,7 +6,7 @@ modified_date: 2021-10-19 12:00:00 +0800
 categories: 
 ---
 
-[https://www.coursera.org/learn/graphs](https://www.coursera.org/learn/graphs)
+[Coursera link](https://www.coursera.org/learn/graphs)
 
 ### Learning Objectives
 
