@@ -22,12 +22,14 @@ categories:
 	+ root; affix - prefix, suffix; infix 
 	
 - Morphosyntax
-
   - word order; subject verb object
   - grammaticality 
     - idiolect 
 
 - Syntax
-
   - tree diagram
+  
+- Semantics (meaning of word, phrase or text)
+	+ semantic relationships 
 
+- Pragmatics
