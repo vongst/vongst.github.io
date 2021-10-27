@@ -23,10 +23,10 @@ layout: default
       {%- for post in posts -%}
       <li>
         <span class="post-meta">
-        {%- if page.modified_date -%}
+        {%- if post.modified_date -%}
           {{ post.modified_date | date: date_format }}
-        {<!-- %- else -%}
-          {{ post.date | date: date_format }} -->
+        {%- else -%}
+          {{ post.date | date: date_format }}
         {%- endif -%}
         </span>
         <span class="post-link">
