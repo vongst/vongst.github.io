@@ -2,7 +2,7 @@
 layout: post
 title:  "Linguistics - Crash Course"
 date:   2021-10-25 12:00:00 +0800
-modified_date: 2021-10-25 12:00:00 +0800
+modified_date: 2021-10-27 12:00:00 +0800
 categories: 
 ---
 
