@@ -25,8 +25,8 @@ layout: default
         <span class="post-meta">
         {%- if page.modified_date -%}
           {{ post.modified_date | date: date_format }}
-        {%- else -%}
-          {{ post.date | date: date_format }}
+        {<!-- %- else -%}
+          {{ post.date | date: date_format }} -->
         {%- endif -%}
         </span>
         <span class="post-link">
