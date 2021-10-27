@@ -31,5 +31,10 @@ categories:
   
 - Semantics (meaning of word, phrase or text)
 	+ semantic relationships 
+	+ euphemisms
+	+ polysemy 
+	+ prototype theory
 
 - Pragmatics
+
+- Sociolinguistics 
