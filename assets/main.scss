@@ -19,6 +19,7 @@ hr {
 a.site-title {
     font-size: 24.2515px;
     line-height: 150%;
+    font-weight: 400;
     font-family: 'Noto Sans SC', sans-serif;
     color: #111;
 
@@ -32,6 +33,7 @@ a.site-title {
         color: #AA381E;
         border-color: #AA381E;
     }
+    span { font-size: 0.9em; }
 }
 .site-desc {
     float: right;
