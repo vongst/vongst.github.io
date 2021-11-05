@@ -42,7 +42,8 @@ a.site-title {
     margin-bottom: 15px;
 }
 .post-meta {
-    margin-right: 15px;
+    display: inline-block;
+    min-width: 90px;
 
     a {
         color: inherit;
